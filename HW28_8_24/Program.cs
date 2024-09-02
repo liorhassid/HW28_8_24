@@ -8,6 +8,8 @@ namespace HW28_8_24
     {
         static void Main(string[] args)
         {
+            // CR: Main should be empty there should only be one function call
+
             Customer c1 = new Customer();
             Customer c2 = new Customer();
             Customer c3 = new Customer();
